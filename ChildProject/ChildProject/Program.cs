@@ -6,7 +6,7 @@ namespace ChildProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Child 1");
+            Console.WriteLine("Hello Child 1_1");
         }
     }
 }
